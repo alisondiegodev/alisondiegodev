@@ -1,4 +1,5 @@
-Olá Seja bem vindo ao meu Github! Meu nome é Alison Diego e sou um Desenvolvedor Web com experiência em Javascript com Next + React + Typescript e também PHP com Laravel.
+Olá Seja bem vindo ao meu Github! Meu nome é Alison Diego e sou um Desenvolvedor Web com experiência em HTML, CSS, Javascript, PHP, SQL.
+Frameworks como: Next + React + Typescript e também PHP com Laravel.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">

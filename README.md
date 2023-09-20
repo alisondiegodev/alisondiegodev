@@ -1,4 +1,4 @@
-Olá Seja bem vindo ao meu Github! Meu nome é Alison Diego e sou um Desenvolvedor Web com experiência em HTML, CSS, Javascript, PHP, SQL.
+Desenvolvedor Web com experiência em HTML, CSS, Javascript, PHP, SQL.
 Frameworks como: Next + React + Typescript e também PHP com Laravel.
 
 <div style="display: inline_block"><br>

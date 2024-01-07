@@ -16,7 +16,7 @@ Desenvolvedor Web com experiência em HTML, CSS, Javascript, Next, React, Typesc
   <img align="center" alt="MYSQL" height="30" width="40"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
 <img align="center" alt="LARAVEL" height="30" width="40"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" />
 <img align="center" alt="PYTHON" height="30" width="40"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
-<img align="center" alt="PYTHON" height="30" width="40"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" />  
+<img align="center" filter="invert" alt="PYTHON" height="30" width="40"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" />  
 </div>
   <br><br>
 <div> 

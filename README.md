@@ -1,4 +1,4 @@
-Desenvolvedor Web com experiência em HTML, CSS, Javascript, Next, React, Typescrip, PHP, SQL, Laravel, Python, Django, PostgreSQL
+Mid-Level Python Backend Developer 
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">

@@ -15,10 +15,10 @@ Mid-Level Python Backend Developer
 
 
   <img align="center" alt="PHP" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-<img align="center" alt="LARAVEL" height="70" width="80"   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-line-wordmark.svg" />
-  <img align="center" alt="MYSQL" height="30" width="40"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-  <img align="center" alt="POSTGRESQL" height="30" width="40"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" />
-<img align="center" alt="PYTHON" height="30" width="40"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+<img align="center" alt="LARAVEL" height="70" width="80"   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original-wordmark.svg" />
+  <img align="center" alt="MYSQL" height="70" width="80"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+  <img align="center" alt="POSTGRESQL" height="70" width="80"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" />
+<img align="center" alt="PYTHON" height="70" width="80"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
 <img align="center" filter="invert()" alt="DJANGO" height="30" width="60"   src="https://static.djangoproject.com/img/logos/django-logo-negative.png" />  
 </div>
   <br><br>
